@@ -8,7 +8,7 @@
 // Add appropriate dependencies: $ yarn add jest
 
 // Reminder: The test will call your function
-// Run the file with the following command: $ yarn jest
+// Run the file with the following command: $ yarn jests
 
 // --------------------1) Create a function that takes in a number (greater than 2) and returns an array that length containing the numbers of the Fibonacci sequence.
 
